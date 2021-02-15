@@ -3,7 +3,7 @@
 
 # Emmanuel Otieno
 #### It describes more about me, 10/02/2021
-#### By **Priscilla Avichinga Ungai**
+
 ## Description
  It describes me and the work/projects I have done since joining Moringa School. The application is used to addvertise my skills in the job market/ arranging meet-and-greet with potential clients.
 ## Setup/Installation Requirements
