@@ -16,6 +16,6 @@ None
 HTML: Used for web development
 CSS: Used for styling the web
 ## Support and contact details
-priscillaungai99@gmail.com
+sakoemmanuel4@gmail.com
 ### License
 licensed under[MIT license](LICENSE)
